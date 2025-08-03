@@ -7,7 +7,7 @@ https://youtu.be/15_-hgsX2V0?si=AXArKvI79LEscpNn
 
 **YOU MUST BE ABLE TO ACCESS A TERMINAL ON YOUR POD** to do this. Web terminal or a terminal in jupyter notebook, or however you do it.
 
-You know if you have access to the web terminal if you see this when you click "COnnect" on your pod page.
+You know if you have access to the web terminal if you see this when you click "Connect" on your pod page.
 ![Add HTTP](webterminal.png)
 
 
