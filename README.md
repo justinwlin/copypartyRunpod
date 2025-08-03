@@ -33,12 +33,12 @@ If your pod has web terminal installed it is somewhere you can do it. Or you can
 
 ![Add HTTP](webterminal.png)
 
-###Option 1:
+### Option 1:
 ```
 curl -LsSf https://astral.sh/uv/install.sh | sh && source $HOME/.local/bin/env && uv tool run copyparty -p 8000 --allow-csrf
 ```
 
-###Option 2:
+### Option 2:
 If you want to run it in the background even if you close the tab, you can install a library called tmux to do so. So that even if your tab is closed it will keep working:
 Only if you want to be able to close the tab by using tmux to keep a session going even if your web terminal or normal terminal is closed:
 ```
