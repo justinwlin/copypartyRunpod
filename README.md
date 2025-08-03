@@ -33,6 +33,8 @@ If your pod has web terminal installed it is somewhere you can do it. Or you can
 curl -LsSf https://astral.sh/uv/install.sh | sh && source $HOME/.local/bin/env && uv tool run copyparty -p 8000 --allow-csrf
 ```
 
+**LEAVE THIS TERMINAL RUNNING** when you close the close the terminal the file server will turn off.
+
 4. You can now go to Runpod and click the port that you launched on
 ![Add HTTP](port.png)
 
