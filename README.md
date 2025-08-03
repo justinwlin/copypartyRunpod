@@ -19,7 +19,7 @@ You know if you have access to the web terminal if you see this when you click "
 
 > If you have any files that did not come with your docker container by default or installed any libraries **IT WILL BE ERASED** when you add a PORT b/c it restarts your pod.
 
-You need to have an HTTP port that is free
+You need to have an HTTP port that is free. If you already have a port that does not have something running on it you can skip this step.
 
 So if you have something running on 8888, then add a port 8000, so on.
 We need a dedicated port for the GUI.
