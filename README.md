@@ -1,3 +1,8 @@
+# Youtube Video from the Creator of the CopyParty Project
+https://github.com/9001/copyparty
+https://youtu.be/15_-hgsX2V0?si=AXArKvI79LEscpNn
+
+
 # How to Get a UI on Runpod
 
 **YOU MUST BE ABLE TO ACCESS A TERMINAL ON YOUR POD** to do this. Web terminal or a terminal in jupyter notebook, or however you do it.
