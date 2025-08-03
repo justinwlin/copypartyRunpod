@@ -10,6 +10,8 @@ https://youtu.be/15_-hgsX2V0?si=AXArKvI79LEscpNn
 You know if you have access to the web terminal if you see this when you click "Connect" on your pod page.
 ![Add HTTP](webterminal.png)
 
+Or the jupyter labs terminal if you can launch jupyter labs and you see the terminal option:
+![Add HTTP](labsterminal.png)
 
 1. Go to your Pod Page
 ![Add HTTP](edit.png)
@@ -29,9 +31,13 @@ In this case I add a port 8000.
 
 3. In the terminal you need to run a command, change the `-p 8000` depending on the port you want.
 
-If your pod has web terminal installed it is somewhere you can do it. Or you can do it in your jupyter notebook terminal if you have it installed. 
+If your pod has web terminal installed it is somewhere you can do it. Or you can do it in your jupyter notebook terminal if you have it installed. The rest of this tutorial will use web terminal, but it's the same both ways
 
+### Option 1: Web Terminal
 ![Add HTTP](webterminal.png)
+
+### Option 2: Jupyter Terminal
+![Add HTTP](labsterminal.png)
 
 ### Option 1:
 ```
